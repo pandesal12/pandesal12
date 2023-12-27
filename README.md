@@ -53,7 +53,7 @@ git diff --staged
 git commit -m “[descriptive message]”
 ```
 
-## Collaboration Cheat Sheet [School Purposes] (Wilb) 📚
+## Collaboration Cheat Sheet [School Purposes] (John Wilbert Laiño) 📚
 
 6. Show all commits in the current branch's history
 ```bash
