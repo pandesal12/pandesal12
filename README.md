@@ -55,5 +55,12 @@ git commit -m “[descriptive message]”
 
 ## Collaboration Cheat Sheet [School Purposes] (Wilb) 📚
 
+6. Show all commits in the current branch's history
+```bash
+git log 
+```
 
-
+7. Retrieve an entire repository from a hosted location via URL
+```bash
+git clone [url]
+```
